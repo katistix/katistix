@@ -3,15 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katistix&label=Profile%20views&color=0e75b6&style=flat" alt="katistix" /> </p>
 
-- 🔭 I’m currently working on **Quick File (Private for now)**
-
-- 🌱 I’m currently learning **React Native, Socket.io, Express.js**
-
-- 👯 I’m looking to collaborate on **React Native projects**
+- 🌱 I’m currently learning **C, and how to program the STM8l Chip**
 
 - 🤝 I’m looking for help with [pluxin](https://github.com/katistix/pluxin)
-
-- 💬 Ask me about **React, CSS and JS**
 
 
 <h3 align="left">Languages and Tools:</h3>
