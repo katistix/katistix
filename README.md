@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">A passionate Web App Developer from Romania.</h3>
+<h3 align="center">A passionate Software Developer from Romania.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katistix&label=Profile%20views&color=0e75b6&style=flat" alt="katistix" /> </p>
 
