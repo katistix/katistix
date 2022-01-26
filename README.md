@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katistix&label=Profile%20views&color=0e75b6&style=flat" alt="katistix" /> </p>
 
-- 🌱 I’m currently learning **C Language**
+- 🌱 I’m currently learning **C++ Language**
 
 - 🤝 I’m looking for help with [pluxin](https://github.com/katistix/pluxin)
 
