@@ -1,7 +1,7 @@
 # 💫About Me :
 🔍 High School student from Romania 🇷🇴
 
-📦 Currently working on: Box Package Manager (BPM)
+📦 Currently working on: Box Package Manager (BPM) and Box Shell
 
 ⚡ Life goal: Make projects that have a real impact on the world
 
