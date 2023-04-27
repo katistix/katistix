@@ -1,7 +1,7 @@
 # Hi! I'm Paul
 🔍 High School student from Romania 🇷🇴
 
-📦 Currently working on: [typefast.me](https://typefast.me)
+📦 Currently working on: [codereport.xyz](https://codereport.xyz)
 
 ⚡ Life goal: Make projects that have a real impact on the world
 
