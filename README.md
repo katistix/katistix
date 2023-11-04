@@ -4,30 +4,35 @@
 
 I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest are web development, DevOps and tooling. I'm currently working on some projects like:
 
--   [**`@katistix/license-cli`**](https://github.com/katistix/license-cli) - A CLI tool for generating licenses for your projects
--   [**`@katistix/algorithms`**](https://github.com/katistix/algorithms) - My personal journey of learning algorithms and data structures (mainly in C++)
+## [**`@katistix/license-cli`**](https://github.com/katistix/license-cli)
 
-## 🌐 How can you contact me?
+-   A CLI tool for generating licenses for your projects
+
+## [**`@katistix/algorithms`**](https://github.com/katistix/algorithms)
+
+-   My personal journey of learning algorithms and data structures (mainly in C++)
+
+### 🌐 How can you contact me?
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katistix) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/katistix)
 
-## 💻 My Tech Stack:
+### 💻 My Tech Stack:
 
 Some of the technologies I have worked with and I'm currently working with:
 
-### DevOps
+#### DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
 > I am very passionate about DevOps and I use Docker for all my projects. I also use NPM for package management and GIT for version control.
 
-### Frontend/Backend
+#### Frontend/Backend
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 > Next.js is my go-to framework for building web applications. And Postgres is my database of choice.
 
-### Languages
+#### Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
@@ -37,11 +42,11 @@ Some of the technologies I have worked with and I'm currently working with:
 
 > I'm doing competitive programming in C++ for the Romanian Computer Science Olympiad
 
-## Other tools and technologies I use:
+#### Other tools and technologies I use:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-## 💰 You can support me here:
+### 💰 You can support me here:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/katistix)
 
