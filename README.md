@@ -4,11 +4,11 @@
 
 I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest are web development, DevOps and tooling. I'm currently working on some projects like:
 
-## [**`@katistix/license-cli`**](https://github.com/katistix/license-cli)
+## [**@katistix/license-cli**](https://github.com/katistix/license-cli)
 
 -   A CLI tool for generating licenses for your projects
 
-## [**`@katistix/algorithms`**](https://github.com/katistix/algorithms)
+## [**@katistix/algorithms**](https://github.com/katistix/algorithms)
 
 -   My personal journey of learning algorithms and data structures (mainly in C++)
 
