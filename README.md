@@ -12,11 +12,9 @@ I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest ar
 
 -   My personal journey of learning algorithms and data structures (mainly in C++)
 
-### 🌐 How can you contact me?
+---
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/katistix) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/katistix)
-
-### 💻 My Tech Stack:
+### Technolohies I use
 
 Some of the technologies I have worked with and I'm currently working with:
 
