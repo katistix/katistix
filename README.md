@@ -19,6 +19,8 @@ Some of the technologies I have worked with and I'm currently working with:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
+> I am very passionate about DevOps and I use Docker for all my projects. I also use NPM for package management and GIT for version control.
+
 ### Frontend/Backend
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
@@ -27,19 +29,19 @@ Some of the technologies I have worked with and I'm currently working with:
 
 ### Languages
 
--   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-    > My main programming language
+> My main programming language is TypeScript. I use it for both frontend and backend development.
 
--   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-    > I'm doing competitive programming in C++ for the Romanian Computer Science Olympiad
+> I'm doing competitive programming in C++ for the Romanian Computer Science Olympiad
 
 ## Other tools and technologies I use:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-## 💰 You can help me by Donating
+## 💰 You can support me here:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/katistix)
 
