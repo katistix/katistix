@@ -6,6 +6,8 @@ I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest ar
 
 # Currently working on
 
+## [**@katistix/dockdb**](https://github.com/katistix/dockdb)
+
 ## [**@katistix/license-cli**](https://github.com/katistix/license-cli)
 
 -   A CLI tool for generating licenses for your projects
