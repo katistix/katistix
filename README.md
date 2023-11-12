@@ -33,5 +33,7 @@ Some of the technologies I have worked with and I'm currently working with:
 ### You can support me here:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/katistix)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/G2G5R30KO)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
