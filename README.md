@@ -7,12 +7,16 @@ I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest ar
 # Currently working on
 
 ## [**@katistix/dockdb**](https://github.com/katistix/dockdb)
+`CLI TOOL` `BASH`
+- Easy PostgreSQL + Docker database provisioning.
 
 ## [**@katistix/license-cli**](https://github.com/katistix/license-cli)
+`CLI TOOL` `BASH`
 
 -   A CLI tool for generating licenses for your projects
 
 ## [**@katistix/algorithms**](https://github.com/katistix/algorithms)
+`Documentation` `C++`
 
 -   My personal journey of learning algorithms and data structures (mainly in C++)
 
