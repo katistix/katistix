@@ -11,7 +11,7 @@ I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest ar
 - Easy PostgreSQL + Docker database provisioning.
 
 ## [**@katistix/license-cli**](https://github.com/katistix/license-cli)
-`CLI TOOL` `BASH`
+`CLI TOOL` `NPM` `TS`
 
 -   A CLI tool for generating licenses for your projects
 
