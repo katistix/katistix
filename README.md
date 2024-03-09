@@ -28,8 +28,3 @@ Some of the technologies I have worked with and I'm currently working with:
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/katistix)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/G2G5R30KO)
-
-
-# Holopin Badges
-[![An image of @katistix's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/katistix)](https://holopin.io/@katistix)
----
