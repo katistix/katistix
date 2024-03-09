@@ -15,11 +15,6 @@ I'm a 17 year old developer from Romania 🇷🇴. My main topics of interest ar
 
 -   A CLI tool for generating licenses for your projects
 
-## [**@katistix/algorithms**](https://github.com/katistix/algorithms)
-`Documentation` `C++`
-
--   My personal journey of learning algorithms and data structures (mainly in C++)
-
 ---
 ### Technolohies I use
 
