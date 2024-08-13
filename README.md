@@ -6,14 +6,9 @@ I'm a 18 year old developer from Romania 🇷🇴. My main topics of interest ar
 
 # Currently working on
 
-## [**@katistix/dockdb**](https://github.com/katistix/dockdb)
-`CLI TOOL` `BASH`
-- Easy PostgreSQL + Docker database provisioning.
-
-## [**@katistix/license-cli**](https://github.com/katistix/license-cli)
-`CLI TOOL` `NPM` `TS`
-
--   A CLI tool for generating licenses for your projects
+## [**@katistix/sensor-data-streaming**](https://github.com/katistix/sensor-data-streaming)
+`GO` `Networking`
+- A personal learning project to stream and log sensor data over a custom TCP protocol.
 
 ---
 ### Technolohies I use
