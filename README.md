@@ -4,13 +4,6 @@
 
 I'm a 18 year old developer from Romania 🇷🇴. My main topics of interest are web development, DevOps and tooling. I'm currently working on some projects like:
 
-# Currently working on
-
-## [**@katistix/sensor-data-streaming**](https://github.com/katistix/sensor-data-streaming)
-`GO` `Networking`
-- A personal learning project to stream and log sensor data over a custom TCP protocol.
-
----
 ### Technolohies I use
 
 Some of the technologies I have worked with and I'm currently working with:
