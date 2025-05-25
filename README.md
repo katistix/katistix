@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=katistix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I'm a 18 year old developer from Romania 🇷🇴. My main topics of interest are web development, DevOps and tooling. I'm currently working on some projects like:
+I'm a 19 year old developer from Romania 🇷🇴. My main topics of interest are web development, DevOps and tooling. I'm currently working on some projects like:
 
 ### Technolohies I use
 
