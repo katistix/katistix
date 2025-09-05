@@ -1,5 +1,5 @@
 ### 👾 UBB Cluj-Napoca  CS Undergrad Student 👾
-
+****
 My ultimate goal is to prove my worth is greater than a **well-trained Roomba**. My mission is to regain **intentional use of technology** and embrace **digital minimalism**. 
 
 ---
@@ -20,5 +20,5 @@ Currently, I'm trying to become a math wizard by catching up on **Linear Algebra
 
 Some might call these "achievements," but I just call it validation.
 
-* **Olympiad of Innovation and Digital Creativity** (infoeducatie.ro): Managed to get **2nd place three times** and one **mention** at the national level. Because why win when you can be consistently, gloriously second?
-* **National Informatics Olympiad** (Algorithms): Proved I could out-think the competition by securing **2nd place at the county level twice**. My prize? More algorithms.
+* **Olympiad of Innovation and Digital Creativity** (infoeducatie.ro): Managed to get **2nd place three times** at the national level. Because why win when you can be consistently, gloriously second?
+* **National Informatics Olympiad**: Proved I could out-think the competition by securing **2nd place at the county level twice**. My prize? More algorithms.
