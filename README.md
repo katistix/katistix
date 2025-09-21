@@ -4,7 +4,7 @@
 
 #### learning and achievements
 - currently learning Linear Algebra, no-dependency ANSI C programming, how emulators work
-- in the past i built web applications that got be 3 time second place winner at ["Olimpiada Nationala de Inovatie si Creativitate Digitala"](https://infoeducatie.ro/)
+- built web applications that won 3x second place at ["Olimpiada Nationala de Inovatie si Creativitate Digitala"](https://infoeducatie.ro/)
 
 #### connect
 - [Twitter (X.com): @itspaultal](https://x.com/itspaultal)
