@@ -1,10 +1,10 @@
-#### about
+hello
 - Undergrad CS Student @ UBB Cluj-Napoca
 - passionate about permacomputing, tooling, process automation and distributed systems
 
 #### learning and achievements
 - currently learning Algebra, C programming, and how emulators and virtual machines work
-- built web applications that won 3x second place at ["Olimpiada Nationala de Inovatie si Creativitate Digitala"](https://infoeducatie.ro/)
+hello
 
 #### software and hardware
 - my dotfiles can be found here: [katistix/dotfiles](https://github.com/katistix/dotfiles)
