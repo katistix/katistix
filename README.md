@@ -1,4 +1,6 @@
-hello
+FOSS is POWER
+
+
 - Undergrad CS Student @ UBB Cluj-Napoca
 - passionate about permacomputing, tooling, process automation and distributed systems
 
