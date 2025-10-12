@@ -6,6 +6,7 @@ FOSS is POWER
 
 #### learning and achievements
 - currently learning C Programming and how emulators and virtual machines work
+- built web applications that won 3x second place at ["Olimpiada Nationala de Inovatie si Creativitate Digitala"](https://infoeducatie.ro/)
 
 #### software and hardware
 - my dotfiles: [katistix/dotfiles](https://github.com/katistix/dotfiles)
