@@ -13,5 +13,6 @@ FOSS is POWER
 - main machine: 2025 M4 Macbook Air (24GB RAM, 512GB Storage)
 
 #### connect
+- [paultal.online](https://paultal.online)
 - [Twitter (X.com): @itspaultal](https://x.com/itspaultal)
 
