@@ -17,3 +17,6 @@ FOSS is POWER
 - [paultal.online](https://paultal.online)
 - [Twitter (X.com): @itspaultal](https://x.com/itspaultal)
 
+#### inspiration
+- [Sylvan Franklin](https://www.youtube.com/@sylvanfranklin)
+- [Hundred Rabbits](https://100r.co/site/home.html)
