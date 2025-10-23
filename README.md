@@ -1,5 +1,6 @@
-FOSS is POWER
+![](github_cover.png)
 
+FOSS is POWER
 
 - Undergrad CS Student @ UBB Cluj-Napoca
 - passionate about permacomputing, tooling, process automation and distributed systems
