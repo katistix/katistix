@@ -13,9 +13,3 @@
 
 #### dotfiles:
 - [katistix/dotfiles](https://github.com/katistix/dotfiles)
-
-
-#### let's connect:
-- [LinkedIn: @talpaul](https://www.linkedin.com/in/talpaul)
-- [Twitter (X.com): @itspaultal](https://x.com/itspaultal)
-- [paultal.online](https://paultal.online)
