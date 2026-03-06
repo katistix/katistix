@@ -6,3 +6,7 @@
 
 ##### [InfoEducatie:](https://github.com/stars/katistix/lists/infoeducatie)
 - [**uws**](https://github.com/katistix/uws) - 🦄 Unicorn Web Services - InfoEducatie 2025 OPEN
+
+### knowledge
+#### book libray
+- [books](https://github.com/katistix/books) - personal library of books and textbooks
