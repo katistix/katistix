@@ -1,6 +1,7 @@
 ### my projects:
 
 ##### [CS & ML:](https://github.com/stars/katistix/lists/cs-ml)
+- [**logscale**](https://github.com/katistix/logscale) - High-performance, concurrent log-searching engine written in Go
 - [**spam-filtering**](https://github.com/katistix/spam-filtering) - Naive Bayes implementation in Go
 
 
