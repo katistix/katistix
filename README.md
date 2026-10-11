@@ -1,3 +1,5 @@
+> "software has become a commodity, so keep it simple"
+
 ### my projects:
 
 - [**impactify**](https://github.com/katistix/impactify) - Event platform with polls, chat, live streams, public API, and related tooling: [impactify-sdk](https://github.com/katistix/impactify-sdk), [mcp-impactify](https://github.com/katistix/mcp-impactify), [impactify-poll-tui](https://github.com/katistix/impactify-poll-tui)
