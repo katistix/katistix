@@ -1,14 +1,9 @@
-[**git.paultal.online**](https://git.paultal.online)
+### [**git.paultal.online**](https://git.paultal.online)
 
 
-> "software has become a commodity, so keep it simple"
+### projects that actually solve my problems:
 
-### my projects:
-
-- [**impactify**](https://github.com/katistix/impactify) - Event platform with polls, chat, live streams, public API, and related tooling: [impactify-sdk](https://github.com/katistix/impactify-sdk), [mcp-impactify](https://github.com/katistix/mcp-impactify), [impactify-poll-tui](https://github.com/katistix/impactify-poll-tui)
-
-- [**logscale**](https://github.com/katistix/logscale) - High-performance, concurrent log-searching engine written in Go
+- [**pocketkv**](https://github.com/katistix/pocketkv) - Simple minimal self hostable kv datastore you can use to serve dynamic read-only values to static sites.
 
 - [**ephemeral-linux**](https://github.com/katistix/ephemeral-linux) - A tiny Go TUI for spinning up a quick bare-bones Linux box I can SSH into from macOS.
 
-- [**pinflow**](https://pinflow.app) - Crowdsourced delivery platform with real-time courier tracking and chat.
